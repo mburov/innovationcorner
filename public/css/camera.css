@@ -1,0 +1,36 @@
+body {
+  background-color: #ddd;
+  padding: 0.5em;
+  text-align: center;
+  font-family: "Helvetica Neueu", "Helvetica", "Arial", sans;
+}
+
+
+input {
+  width: 300px;
+}
+
+#camera {
+  display: inline-block;
+  background-color: #eee;
+  width: 350px;
+  height: 300px;
+  margin: 0.1em;
+}
+
+#camera .placeholder {
+  padding: 0.3em;
+}
+
+button {
+  margin: 0.5em;
+  background-color: #ea833a; /* Orange */
+    border: none;
+    color: white;
+    padding: 12px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 8px;
+}
